@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "960880566194",
+    "firebase_url": "https://safebox-a276d.firebaseio.com",
+    "project_id": "safebox-a276d",
+    "storage_bucket": "safebox-a276d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960880566194:android:31b994d3657c9e538b0eab",
+        "android_client_info": {
+          "package_name": "com.uy.safeboxv3app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960880566194-rkms42g4lh6piktj7p0vs125ot3ha3qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8S153tYShrRY71Z5difFaNakTZHi6d3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960880566194-rkms42g4lh6piktj7p0vs125ot3ha3qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

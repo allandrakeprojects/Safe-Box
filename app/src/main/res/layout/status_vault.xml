@@ -46,7 +46,7 @@
         android:orientation="vertical">
 
         <ImageView
-            android:id="@+id/imageView10"
+            android:id="@+id/IV_VaultStatus"
             android:layout_width="match_parent"
             android:layout_height="99dp"
             app:srcCompat="@drawable/safeboxstatus" />
