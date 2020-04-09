@@ -49,6 +49,7 @@
             android:id="@+id/IV_VaultStatus"
             android:layout_width="match_parent"
             android:layout_height="99dp"
+            android:visibility="invisible"
             app:srcCompat="@drawable/safeboxstatus" />
     </LinearLayout>
 

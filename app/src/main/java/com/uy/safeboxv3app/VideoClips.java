@@ -25,7 +25,7 @@ public class VideoClips extends AppCompatActivity {
         recyclerView.setLayoutManager(new LinearLayoutManager(getApplicationContext()));
 
         database = FirebaseDatabase.getInstance();
-        reference = database.getReference("video");
+        reference = database.getReference("Video");
 
     }
 
